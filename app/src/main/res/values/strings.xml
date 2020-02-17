@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lab 3 Milestone 1</string>
+    <string name = "button_trigger_dialog">OPEN DIALOG</string>
 </resources>
